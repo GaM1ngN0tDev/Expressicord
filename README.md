@@ -2,7 +2,8 @@
 
 Expressicord is an unofficial, third-party Discord client for Android, built with a focus on the **Material Expressive 3** design language. 
 
-> **Disclaimer & Warning:** Expressicord is an unofficial client and is not affiliated with or endorsed by Discord. Using third-party clients violates Discord's Terms of Service and **may lead to your account being permanently banned**. Use this application at your own risk.
+> **Disclaimer & Warning:** Expressicord is an unofficial client and is not affiliated with or endorsed by Discord. Using third-party clients violates Discord's Terms of Service and **may lead to your account being permanently banned**.
+**Use this application at your own risk (Our Testing App Before Show Off They Got Two Accounts Banned So Please Be Aware Of This**.
 
 ---
 
