@@ -1,5 +1,10 @@
 # Expressicord
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c5b062e7-2911-49f1-b5ce-42288308f878" alt="Expressicord" width="256" height="256" />
+</p>
+
+
 Expressicord is an unofficial, third-party Discord client for Android, built with a focus on the **Material Expressive 3** design language. 
 
 > **Disclaimer & Warning:** Expressicord is an unofficial client and is not affiliated with or endorsed by Discord. Using third-party clients violates Discord's Terms of Service and **may lead to your account being permanently banned**.
