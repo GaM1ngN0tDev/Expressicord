@@ -7,10 +7,15 @@ Expressicord is an unofficial, third-party Discord client for Android, built wit
 
 ---
 
-## Features & Status
+## Features
 * **Work in Progress (WIP):** The application is currently under active development.
 * **Material Expressive 3:** Modern, fluid, and expressive UI elements based on the latest Material Design guidelines.
 * **Android Focused:** Optimized specifically for Android devices.
+
+---
+
+## Status
+* **Pages Of Servers And DM** The application works but DM's Servers And Voice Chat Is Not Stable (example: When your texting on server you will notice that gift and voice chat won't work bc we are still fixing those)
 
 ## Installation & Usage
 *(Add instructions here once the app is ready for testing/release)*
