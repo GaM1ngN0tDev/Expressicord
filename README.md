@@ -92,7 +92,7 @@ The roadmap is still evolving, but the project is generally focused on:
 - Improving stability and reliability
 - Refining Android-native interactions and design details
 - Adding better support for more common mobile use cases
-- Up coming windows Expressicord App built with Flutter
+- Up coming Windows Expressicord App built with Flutter
 
 ---
 
