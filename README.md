@@ -51,11 +51,11 @@ Expressicord is still in active development and should be treated as a work in p
 
 Some areas may be unstable or incomplete, including:
 
-- Direct messaging behavior
-- Server browsing and layout stability
-- Voice and chat-related functionality
-- Compatibility with some Discord features
-- General reliability during heavier usage
+- Direct messaging behavior (Works:D)
+- Server browsing and layout stability (Kinda Done Part Of Settings Server Is Not There)
+- Voice and chat-related functionality (Unstable Won't Work DOTA)
+- Compatibility with some Discord features (Kinda Working Finishing)
+- General reliability during heavier usage (Finishing)
 
 The project is not yet considered stable enough for everyday production use, but it is being actively improved over time.
 
