@@ -123,11 +123,19 @@ If you encounter bugs, design issues, or feature requests, feel free to open an 
 
 ---
 
-## Disclaimer
+## Disclaimer (Same As The Warning On Top)
 
 Expressicord is a community-made, unofficial client and is not owned by, affiliated with, or sponsored by Discord.
 
 This project is developed for educational and experimental purposes and should be used at your own risk.
+
+This project was created with AI-assisted / "vibecoded" tooling and is still an experimental work in progress. 
+
+It may contain rough edges, bugs, incomplete features, and unstable behavior. 
+
+Please keep feedback constructive. Rants, rage bait, or comments focused only on "AI"/"vibecoded" drama will not be helpful and will be ignored. 
+
+Use this app at your own risk.
 
 ---
 
