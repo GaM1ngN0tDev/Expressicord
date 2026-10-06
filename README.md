@@ -69,6 +69,7 @@ The project is not yet considered stable enough for everyday production use, but
 4. Launch Expressicord and sign in with your Discord account.
 
 > Note: Because this is an unofficial client, use it responsibly and be aware of the risks involved.
+> And please be aware of the new Android Update Security if your trying to install this APK it wont work because of the new stupid security of Google to bypass this trun on Developer Settings, Go To App Sections, Apps Of Developers Not Verified And Now You Will Need To Wait. 
 
 ---
 
