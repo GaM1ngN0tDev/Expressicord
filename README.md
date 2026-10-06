@@ -11,13 +11,16 @@ The goal of this project is to deliver a modern, fluid, and Android-first Discor
 > [!WARNING]
 > Expressicord is not affiliated with, endorsed by, or officially supported by Discord.
 > Using third-party clients may violate Discord's Terms of Service and may result in account restrictions or bans.
+> This project was created with AI-assisted / "vibecoded" tooling and is still an experimental work in progress.
+> It may contain rough edges, bugs, incomplete features, and unstable behavior.
+> Please keep feedback constructive. Rants, rage bait, or comments focused only on "AI"/"vibecoded" drama will not be helpful and will be ignored.
 > Use this app at your own risk.
 
 ---
 
 ## Overview
 
-Expressicord is a passion project focused on reimagining Discord for Android with a more polished and expressive interface. The project aims to combine the familiarity of Discord with a more modern Material experience that feels at home on Android devices.
+Expressicord is a passion project focused on reimagining Discord for Android with a more polished and expressive interface. The project aims to combine the familiarity of Discord with a more modern[...]
 
 This project is currently in active development, and while it may work for basic usage, it should still be considered experimental.
 
@@ -69,7 +72,7 @@ The project is not yet considered stable enough for everyday production use, but
 4. Launch Expressicord and sign in with your Discord account.
 
 > Note: Because this is an unofficial client, use it responsibly and be aware of the risks involved.
-> And please be aware of the new Android Update Security if your trying to install this APK it wont work because of the new stupid security of Google to bypass this trun on Developer Settings, Go To App Sections, Apps Of Developers Not Verified And Now You Will Need To Wait. 
+> And please be aware of the new Android Update Security if your trying to install this APK it wont work because of the new stupid security of Google to bypass this trun on Developer Settings, Go [..]
 
 ---
 
@@ -138,6 +141,6 @@ If no explicit license is present, treat the project as being under repository-l
 
 ## Final Note
 
-Expressicord is a work in progress, but the direction is clear: build a more modern, expressive, Android-focused Discord experience while staying transparent about the risks and limitations of using an unofficial client.
+Expressicord is a work in progress, but the direction is clear: build a more modern, expressive, Android-focused Discord experience while staying transparent about the risks and limitations of using unofficial software.
 
 If you want to explore, test, or improve it, you are welcome to contribute.
