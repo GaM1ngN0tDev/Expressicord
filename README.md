@@ -149,6 +149,8 @@ If no explicit license is present, treat the project as being under repository-l
 
 ## Final Note
 
-Expressicord is a work in progress, but the direction is clear: build a more modern, expressive, Android-focused Discord experience while staying transparent about the risks and limitations of using unofficial software.
+Expressicord is a work in progress, but the direction is clear: build a more modern, M3 Expressive, Android-focused Discord experience while staying transparent about the risks and limitations of using unofficial software.
 
 If you want to explore, test, or improve it, you are welcome to contribute.
+
+Just Be Aware That Your Using Unofficial Discord App And Can Get You Banned! 
