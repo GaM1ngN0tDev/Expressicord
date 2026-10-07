@@ -20,7 +20,7 @@ The goal of this project is to deliver a modern, fluid, and Android-first Discor
 
 ## Overview
 
-Expressicord is a passion project focused on reimagining Discord for Android with a more polished and expressive interface. The project aims to combine the familiarity of Discord with a more modern[...]
+Expressicord is a passion project focused on reimagining Discord for Android with a more polished and expressive interface. The project aims to combine the familiarity of Discord with a more modern UI with Material Expressive 3 
 
 This project is currently in active development, and while it may work for basic usage, it should still be considered experimental.
 
